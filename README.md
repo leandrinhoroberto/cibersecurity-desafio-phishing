@@ -18,7 +18,7 @@
 
 ### Resutados
 
-[![Alt text](./desafio dio.png.png "Optional title")
+desafio dio.png
 
 
 
