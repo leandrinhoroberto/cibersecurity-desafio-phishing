@@ -18,6 +18,7 @@
 
 ### Resutados
 
-[![Alt text](./desafio dio.png.png "Optional title")](https://github.com/leandrinhoroberto/cibersecurity-desafio-phishing/blob/470a3eb546123c74584883b7b77a85836b088edb/desafio%20dio.png)
+[![Alt text](./desafio dio.png.png "Optional title")
+
 
 
